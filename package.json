@@ -1,0 +1,22 @@
+{
+  "name": "react-native-iphone-helper",
+  "version": "1.0.0",
+  "description": "react-native-iphone-helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uibro01/react-native-iphone-helper.git"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "uibro01",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uibro01/react-native-iphone-helper/issues"
+  },
+  "homepage": "https://github.com/uibro01/react-native-iphone-helper#readme"
+}
