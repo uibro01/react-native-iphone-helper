@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/uibro01/react-native-iphone-helper/issues"
   },
-  "homepage": "https://github.com/uibro01/react-native-iphone-helper#readme"
+  "homepage": "https://github.com/uibro01/react-native-iphone-helper#readme",
+  "dependencies": {
+    "react-native-device-info": "^8.3.2"
+  }
 }
